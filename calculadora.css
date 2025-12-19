@@ -21,9 +21,7 @@ rotate: 20px 80px;
 
  background-color: black;
 }
-.contenedor :hover{
- 
-}
+
 
 .contenedor{
 
@@ -77,6 +75,8 @@ input{
    
 
 }
+
+
 .dividir, .por, .resta, .mas, .igual{
     color: white;
     background-color: rgb(250, 165, 6);
